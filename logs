@@ -1,0 +1,9 @@
+
+npm create vite@latest client --template vanilla
+
+###################3
+push updated file to get github. 
+
+git add ./
+git commit -m 'update the server url'
+git push
